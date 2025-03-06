@@ -1,0 +1,43 @@
+node_modules
+
+# Output
+.output
+.vercel
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+package-lock.json
+# Tauri specific files
+src-tauri/target/
+src-tauri/.cargo/
+src-tauri/Cargo.lock
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+npm-debug.log*
+*.log
+
+# Cursor
+.cursorrules
