@@ -72,3 +72,15 @@
 		</button>
 	</div>
 </div>
+<div class="w-full grid grid-cols-2 lg:grid-cols-4 gap-2">
+	
+	<div class="preset-tonal flex items-center justify-center p-4">(neutral)</div>
+	
+	<div class="preset-tonal-primary flex items-center justify-center p-4">primary</div>
+	<div class="preset-tonal-secondary flex items-center justify-center p-4">secondary</div>
+	<div class="preset-tonal-tertiary flex items-center justify-center p-4">tertiary</div>
+	<div class="preset-tonal-success flex items-center justify-center p-4">success</div>
+	<div class="preset-tonal-warning flex items-center justify-center p-4">warning</div>
+	<div class="preset-tonal-error flex items-center justify-center p-4">error</div>
+	<div class="preset-tonal-surface flex items-center justify-center p-4">surface</div>
+  </div>
